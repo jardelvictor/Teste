@@ -1,2 +1,17 @@
 Wellington
+<<<<<<< HEAD
 Pedro Toquei punheta na chuva e fiquei doente
+=======
+Jhon Donavan
+João Emmanuel
+<<<<<<< HEAD
+
+(\___/)
+(=':'=)
+(")_(")
+=======
+guilherme dos Santos
+>>>>>>> 9ef69d63c77c668d600ed3deb2d29337cc02b589
+
+8=D
+>>>>>>> 871426999404b2febd59b38fef5a1e9440448ad5
